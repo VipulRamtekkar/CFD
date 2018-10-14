@@ -1,4 +1,4 @@
-# Predicting Natural Disasters and peer to peer netwrking using mobile mesh
+# Predicting Natural Disasters and peer to peer networking using mobile mesh
 
 Natural disasters have a multitude of factors involved in their detection, some of the natural disasters are earthquakes, tsunami, hurricane, volcanic eruption, avalanche and landslide. Like a disease gives out cues before actually showing up, so do these disasters. Catching those cues can thus enable us to predict the disaster. So here comes the machine learning into the picture as machine learning enables to analyse all the patterns and predicts the outcome. 
 
